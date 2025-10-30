@@ -28,7 +28,7 @@ repositories {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'net.mingsoft:ms-mcms:5.5.0'
+	implementation 'net.mingsoft:ms-mcms:6.1.0'
 	implementation 'io.netty:netty-codec-smtp:4.2.0.Final'
 	implementation 'org.keycloak:keycloak-quarkus-server:26.0.4'
 	compileOnly 'org.projectlombok:lombok'
